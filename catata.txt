@@ -1,0 +1,9 @@
+kalo mau aktifin project ketik perintah 
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+
+agar tailwindnya update
+
+alt + shift + down = copy dibawahnya
+
+flex = agar tampilan flexible
+justyfy-center = konten agar d tengah
